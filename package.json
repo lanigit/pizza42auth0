@@ -1,0 +1,23 @@
+{
+  "name": "pizza42auth0",
+  "version": "1.0.0",
+  "description": "SPA for Auth0 integraiton",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtlanius/pizza42auth0.git"
+  },
+  "keywords": [
+    "pizza42auth0"
+  ],
+  "author": "mtlanius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtlanius/pizza42auth0/issues"
+  },
+  "homepage": "https://github.com/mtlanius/pizza42auth0#readme"
+}

@@ -1,0 +1,55 @@
+/* #background-pic-image {
+  background-image: url("https://theaccidentalpeach.files.wordpress.com/2013/02/017.jpg");
+  height: 1000px;
+  width: 100%;
+} */
+
+#contact-information-container {
+  text-align: center;
+}
+
+#pizza-image {
+  height: 100%;
+  width: 100%;
+}
+
+#fancy-header {
+  background-color: black;
+  color: white;
+  text-align: center;
+  /* opacity: .5 */
+}
+
+#request {
+  text-align: center;
+}
+
+.elegant {
+  text-align: center;
+  color: #3E64CE;
+}
+
+li.nav-item {
+  padding-left: 10px;
+}
+
+.navbar navbar-expand-sm bg-dark navbar-dark {
+  text-align: center;
+}
+p#body-text {
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.nav-link {
+  color: #7286C9;
+}
+
+ul {
+  color: #7286C9;
+}
+
+.nav-item {
+  font-size: 23px;
+}
